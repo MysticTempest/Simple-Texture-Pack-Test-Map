@@ -6,7 +6,7 @@ Currently version supports Minetest 0.5-dev, and the associated new items as of 
 
 
 Current Date:
-June 12, 2018
+July 10, 2018
 
 ----
 Image preview using Minetest's default texture pack.
