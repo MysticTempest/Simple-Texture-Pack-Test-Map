@@ -2,11 +2,11 @@
 ----
 
 A simple texture-pack test map for Minetest Game.
-Currently version supports Minetest 0.5-dev, and the associated new items as of the following date.
+Currently version supports Minetest 5.0-dev, and the associated new items as of the following date.
 
 
 Current Date:
-October 13, 2018
+November 20, 2018
 
 ----
 Image preview using Minetest's default texture pack.
